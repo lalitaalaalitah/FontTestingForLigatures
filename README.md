@@ -4,7 +4,7 @@
 
 ## For Other Fonts related to other scripts:
 
-    Use aksharamukha[https://github.com/virtualvinodh/aksharamukha] to convert files and test with your fonts.
+    Use [aksharamukha](https://github.com/virtualvinodh/aksharamukha) to convert files and test with your fonts.
 
 ## Note
 
